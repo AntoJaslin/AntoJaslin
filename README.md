@@ -25,6 +25,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
+<h3> Github Status </h3>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AntoJaslin)](https://github.com/AntoJaslin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJaslin&layout=compact)](https://github.com/AntoJaslin)
+
 <h3>  🔍 Find Me: </h3>
 
 
