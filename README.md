@@ -25,7 +25,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-<h3> Github Status </h3>
+<h3> 🍀 I'm Currently Learning </h3>
+<ul>
+  <li> React Redux Toolkit </li>
+  <li> MongoDB - Atlas </li>
+</ul>
+
+<h3> Github Stats </h3>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AntoJaslin)](https://github.com/AntoJaslin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJaslin&layout=compact)](https://github.com/AntoJaslin)
