@@ -41,3 +41,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anto-jaslin-a-31660b147)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antojaslin1405@gmail.com)
+
+<h3> 🖋️ Random Dev Quote </h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=AntoJaslin&icon=0&color=11)](https://visitcount.itsvg.in)
