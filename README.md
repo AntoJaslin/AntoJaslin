@@ -27,8 +27,8 @@
 
 <h3> 🍀 I'm Currently Learning </h3>
 <ul>
-  <li> React Redux Toolkit </li>
-  <li> MongoDB - Atlas </li>
+  <li> NestJs </li>
+  <li> Mysql </li>
 </ul>
 
 <h3> Github Stats </h3>
